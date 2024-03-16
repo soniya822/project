@@ -1,0 +1,64 @@
+body {
+    background-image: url("ph2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#main{
+     color: blue;
+     text-align: center;
+}
+
+h1 {
+    color: red;
+    text-align: right;
+}
+
+.main{
+    color: aquamarine;
+}
+h2{
+    color: blueviolet;
+}
+
+img {
+    width: 100px;
+}
+table, td, td {
+    border: 1px solid black;
+}
+.hello{
+    width:200px;
+    height: 200px;
+    background-color: aqua;
+    color: orangered;
+    text-align: center;
+    padding: 100px;
+    margin: 20px;
+    border: 2px solid red;
+}
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+    background-color: #04AA6D;
+}
